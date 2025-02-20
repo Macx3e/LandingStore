@@ -1,1 +1,1 @@
-Este proyecto, se basa en un Landing enfocado en una tienda web personal, de una sola pagina, enfocando los elementos mas importantes del mismo
+Este proyecto, se basa en un Landing enfocado en una tienda web personal, de una sola pagina, enfocando los elementos mas importantes del mismo, utilizando HTML y CSS netamente, para la estructura y estetica.
